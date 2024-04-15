@@ -1,0 +1,3 @@
+displayName = Chrono Nexus
+author = The Nerd Squad (Req + Mexican)
+version = 0.1
